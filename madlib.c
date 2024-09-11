@@ -20,7 +20,6 @@ int main()
     printf("%s are blue\n", noun);
     printf("I love %s %s\n", celebrityF, celebrityL);
     
-    printf("hello");
     return 0;
 
 
